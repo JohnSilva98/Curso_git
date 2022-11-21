@@ -1,11 +1,14 @@
-h1 {
-    color: blue
-
+h2{
+    color:darkblue;
+    font-size: 30px;
+    font-family: cursive;
 }
 
+h1{
+    
+    font-family:cursive;
+}
 
-h2 {
-
-    color: brown;
-    margin: auto;
+p{
+    font-family: serif
 }
